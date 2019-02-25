@@ -1,0 +1,49 @@
+.card {
+    min-width: 165px;
+    max-width: 165px;
+    width: 40%;
+    height: 30%;
+    margin: 5px;
+    background: lightgray;
+    border:2px solid lightgray;
+    box-shadow: 1px 1px 3px  1px gray;
+    float: left;
+    
+}
+.card:hover{
+    background: lightblue;
+    box-shadow: 1px 1px 1px  2px grey;
+}
+button {
+    margin-left:50%;
+    transform: translate(-50%); 
+
+}
+button:hover {
+    background: red;
+    border: 5px solid red;
+    color: white;
+}
+input {
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px 2px black;
+    padding: 2px;
+    border: 1px solid white;
+    border-radius: 100%;
+    background: lightgray;
+    box-shadow: 1px 1px 3px  1px gray;
+}
+.card:hover h2{
+    color:lightblue;
+}
+button {
+    background: lightpink;
+    border: 0px;
+    border: 5px solid lightpink;
+    border-radius: 50%;
+    box-shadow: 1px 1px 3px  1px black;
+}

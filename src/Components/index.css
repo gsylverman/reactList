@@ -1,0 +1,44 @@
+
+.green{
+    background: lightgoldenrodyellow;
+    border:5px solid lightgoldenrodyellow;
+    transition: all 1s;
+}
+
+red{
+background: lightpink;
+}
+
+.bt{
+    padding: 5px;
+}
+
+.bta{
+    background: lightskyblue;
+    border: 5px solid lightskyblue;
+}
+
+.bta:hover{
+    background: blue;
+    border: 5px solid blue;
+}
+
+.dv{
+    width: 20%;
+    height: 80px;
+    clear: both;
+    margin: 0 auto;
+    padding: 20px;
+    position: relative;
+    
+}
+
+#btn{
+    clear: both;
+    color:lightcyan;
+    margin-left: 0;
+    position: absolute;
+    bottom: 10px;
+    
+}
+
